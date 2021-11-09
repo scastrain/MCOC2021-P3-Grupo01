@@ -169,7 +169,7 @@ for viaje in viajes:
 	limits=plt.axis('on') # turns on axis
 	ax.tick_params(left=True, bottom=True, labelleft=True, labelbottom=True)
 
-	plt.title(f"Viaje {n_v}")
+	plt.title(f"Viaje {n_v} Tiempo de viaje: {round(first,3)} horas")
 	plt.xticks(np.arange(0.0,11.0,1.0))
 	plt.yticks(np.arange(0.0,11.0,1.0))
 	plt.grid(True, lw = 0.4)
