@@ -24,7 +24,7 @@ pos=nx.get_node_attributes(G,"pos")
 cafe=40
 gris=120
 verde=60
-
+		
 
 cost=[]
 #Distancias y costos
@@ -169,7 +169,7 @@ for viaje in viajes:
 	limits=plt.axis('on') # turns on axis
 	ax.tick_params(left=True, bottom=True, labelleft=True, labelbottom=True)
 
-
+	plt.title(f"Viaje {n_v}")
 	plt.xticks(np.arange(0.0,11.0,1.0))
 	plt.yticks(np.arange(0.0,11.0,1.0))
 	plt.grid(True, lw = 0.4)
