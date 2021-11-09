@@ -8,7 +8,7 @@ Integrantes:
 HOLA
 #**ENTREGA 2**#
 
-                                                              ##Figura 1##
+                                                    Figura 1
 <div align="center">
 <img src=https://user-images.githubusercontent.com/88339083/140987664-9cffc893-c697-4c4d-a431-eda5eef753c3.png >
 </div>
