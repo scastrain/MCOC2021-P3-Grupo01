@@ -36,3 +36,11 @@ Integrantes:
 
 
 * Para calcular las rutas más eficientes, se realizaron los supuestos de que en todo momento se viaja a velocidad máxima permitida sin demoras ni tiempos de espera por congestión. Lo cual es un escenario poco realistas, pero para fines prácticos, ayuda a comprender el  manejo de los grafos.
+
+**ENTREGA 3**
+
+Mapa - Sofía Astrain Verdugo
+
+![Figure_1](https://user-images.githubusercontent.com/88336928/141456651-61ae4bda-7545-40c4-ab7e-225dab7c091b.png)
+
+
