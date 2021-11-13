@@ -43,4 +43,10 @@ Mapa - Sofía Astrain Verdugo
 
 ![Figure_1](https://user-images.githubusercontent.com/88336928/141456651-61ae4bda-7545-40c4-ab7e-225dab7c091b.png)
 
+Mapa - Josefa Tramon
+
+![Plano entrega 3](https://user-images.githubusercontent.com/62305749/141600357-f84a619a-3fe2-41f7-8b67-1884c30bb424.png)
+
+
+
 
