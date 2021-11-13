@@ -8,7 +8,7 @@ Integrantes:
 
 **ENTREGA 2**
 
-                                                              Figura 1
+                                                Figura 1
 
 <div align="center">
 <img src=https://user-images.githubusercontent.com/88339083/140987664-9cffc893-c697-4c4d-a431-eda5eef753c3.png >
@@ -16,20 +16,20 @@ Integrantes:
 
 
 
-                                                               Figura 2 
+                                                Figura 2 
 <div align="center">
 <img src=https://user-images.githubusercontent.com/62305749/141021100-a1365dd9-a0e8-4fc4-8c8c-9f900af8bf37.png >
 </div>
 
 
                                                              
-                                                                Figura 3
+                                                Figura 3
 <div align="center">
 <img src=https://user-images.githubusercontent.com/88339083/140987867-1f26aa7a-8f9c-45ad-9253-89fcaa950387.png >
 </div>                                               
 
 
-                                                                Figura 4                              
+                                                Figura 4                              
 <div align="center">      
 <img src=https://user-images.githubusercontent.com/88339083/140987888-392371ad-ebde-490f-aa2b-df9bed5c6ae9.png >
 </div> 
@@ -47,6 +47,9 @@ Mapa - Josefa Tramon
 
 ![Plano entrega 3](https://user-images.githubusercontent.com/62305749/141600357-f84a619a-3fe2-41f7-8b67-1884c30bb424.png)
 
+Mapa - Bastian Pavez
+
+![WhatsApp Image 2021-11-12 at 22 36 06](https://user-images.githubusercontent.com/88339083/141600923-52cae84b-c348-4640-8f15-7692c56e712d.jpeg)
 
 
 
